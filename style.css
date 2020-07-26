@@ -1,0 +1,43 @@
+  body{
+    color: ghostwhite;
+    background:black;
+  }
+  .aligned { 
+    display: flex; 
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+    color:yellowgreen;
+  } 
+  
+  span { 
+    padding: 40px;
+  } 
+  #a{
+    color: burlywood;
+  }
+  p{
+    color:aqua;
+  }
+  h3{
+     padding-left: 500px;
+    
+  }
+  .bt{
+    color: crimson;
+  }
+  .ct{
+    color: blue;
+  }
+  .wt{
+    color: whitesmoke;
+  }
+  #l{
+    padding-left: 650px;
+  }
+  h4{
+    color: rgb(12, 233, 67);
+    padding-left: 50px;
+  }
+  
+  
